@@ -1,0 +1,4 @@
+transformers==4.11.3
+scikit-learn
+GPUtil
+pynvml

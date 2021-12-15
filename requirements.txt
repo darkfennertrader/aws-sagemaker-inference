@@ -1,0 +1,15 @@
+numpy
+pandas
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.1+cu110
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torchvision==0.8.2+cu110
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torchaudio==0.7.2
+transformers==4.11.3
+sagemaker>=2.0.0<3.0.0
+sagemaker[local]
+GPUtil==1.4.0
+pynvml==11.0.0
+pylint==2.11.1
+black==21.9b0

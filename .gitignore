@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+/model
+/huggingface_hebert_sentiment_analysis_local_serving
+/amazon*
+/venv
+/.vscode
+*.gz
